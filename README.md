@@ -1,6 +1,5 @@
 # text_me
-
-A new Flutter application.
+Flutter app for text numbers without saving it.
 
 ## Getting Started
 
